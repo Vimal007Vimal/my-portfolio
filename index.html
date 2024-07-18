@@ -267,10 +267,21 @@
 
          <!-- Update img src and alt attribute  -->
 
-         <video class="work-video" controls>
+         <video class="work-video" autoplay loop muted>
           <source src="assets/images/work/video.mp4" type="video/mp4">
           Your browser does not support the video tag.
-        </video>        
+        </video>
+        
+        <style>
+          .work-video {
+            width: 100%; /* Adjust the width as needed */
+            max-width: 600px; /* Set a maximum width */
+            height: auto; /* Maintain aspect ratio */
+            display: block; /* Ensure the video is displayed as a block element */
+            margin: 0 auto; /* Center the video horizontally */
+          }
+        </style>
+        
             </div>
             <div class="work-box">
               <div class="work-textbox">
