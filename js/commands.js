@@ -62,10 +62,16 @@ PROJECTS = [
   "Redhat Linux",
   "<a href=https://github.com/Vimal007Vimal> GitHub link",
   "<br>",
+  "<strong> - Cloud Resume Challenge <strong>",
+  "This challenge encourages independent problem-solving, fostering innovation and resilience-",
+  "Participants gain hands-on experience with both AWS and Azure- for more deatils refer my blog.", 
+  "AWS",
+  "Azure",
+  "<a href=https://github.com/Vimal007Vimal> GitHub link",
+  "<br>",
   "<strong>Check out some of my other projects",
   "<strong> in my </strong> <a class=\"command\" href=https://github.com/Vimal007Vimal> GitHub profile</a> <strong>",
   "<br>"
-
 ];
 
 COMMAND_LIST = [
